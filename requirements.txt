@@ -1,0 +1,16 @@
+#Orchestration
+
+apache-airflow==2.8.1 #Check la version du airflow !!!!!!
+
+# Aws et cloud
+boto3                   #SDK AWS POUR S3
+python-dotenv           #Pour gérer le fichier .env en local V
+
+#Datascience et ml
+pandas                  #Manip des données V
+numpy                   #Calcul numérique V
+scikit-learn            #préprocessing et modèle
+matplotlib              #Visualisation (pour notebook)
+
+#utils
+pytest                  #pour les test unitaire V

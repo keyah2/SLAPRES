@@ -1,0 +1,27 @@
+# Environnements
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Data & outputs
+data/
+output/
+artifacts/
+mlruns/
+logs/
+
+# MLflow local
+mlflow.db
+
+# Notebooks
+notebooks/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
